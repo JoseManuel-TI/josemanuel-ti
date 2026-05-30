@@ -14,6 +14,6 @@ Este gráfico fue generado automáticamente tras la configuración y validación
 ---
 ### 🚀 Stack Tecnológico:
 - **Lenguajes:** Python (Flask, Data Science Stack), Node.js, HTML/CSS.
-- **Bases de Datos:** MySQL, SQLite.
+- **Bases de Datos:** Oracle, MySQL, SQLite.
 - **Herramientas:** Git, GitHub, Docker (próximamente), Linux Terminal.
 - **Especialidad:** Soporte técnico integral (Hardware/Software) y CCTV.
