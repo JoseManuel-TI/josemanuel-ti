@@ -1,25 +1,3 @@
-``
-# Hola, soy José Manuel Castro Reina 👋
-
-## 🛠️ Perfil IT y Ciencia de Datos
-Profesional en reconversión al área IT, especializado en **Python** y **Desarrollo Web**. Actualmente curso la Tecnicatura en Ciencia de Datos e IA en el **IFTS 12**.
-
-### 💻 Mi Entorno de Desarrollo
-Opero con un entorno híbrido sincronizado entre **Windows 11** (PC de escritorio) y **macOS** (MacBook), utilizando entornos virtuales (`venv`) y **VS Code** con sincronización en la nube.
-
-#### Prueba de Rendimiento y Visualización:
-Este gráfico fue generado automáticamente tras la configuración y validación de mis librerías de Ciencia de Datos (**Pandas, Seaborn, Matplotlib**):
-
-![Test de Entorno](test_entorno_ds.png)
-
----
-### 🚀 Stack Tecnológico:
-- **Lenguajes:** Python (Flask, Data Science Stack), Node.js, HTML/CSS.
-- **Bases de Datos:** Oracle, MySQL, SQLite.
-- **Herramientas:** Git, GitHub, Docker (próximamente), Linux Terminal.
-- **Especialidad:** Soporte técnico integral (Hardware/Software) y CCTV.
-``
-  
 # ¡Hola! Soy Jose Manuel Castro Reina 👋
 
 ### Estudiante de Ciencia de Datos e IA | Desarrollador Back-End & Automatizaciones
@@ -52,6 +30,18 @@ A través de mi espacio de proyectos autónomos, **Lógica Digital**, diseño e 
 * **Inmobiliario-pro:** Plataforma para gestión de catálogos y administración inmobiliaria.
 * **web-stetica:** Desarrollo web enfocado en la digitalización y gestión de turnos para centros de estética.
 * **Automatizaciones & IA:** Flujos de trabajo y agentes lógicos creados con n8n e integración de modelos de lenguaje para optimización de procesos comerciales.
+
+---
+
+#### Prueba de Rendimiento y Visualización:
+Este gráfico fue generado automáticamente tras la configuración y validación de mis librerías de Ciencia de Datos (**Pandas, Seaborn, Matplotlib**):
+
+![Test de Entorno](test_entorno_ds.png)
+
+---
+
+### 💻 Mi Entorno de Desarrollo
+Opero con un entorno híbrido sincronizado entre **Windows 11** (PC de escritorio) y **macOS** (MacBook), utilizando entornos virtuales (`venv`) y **VS Code** con sincronización en la nube.
 
 ---
 
