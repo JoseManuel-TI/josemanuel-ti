@@ -3,8 +3,6 @@
 ### Estudiante de Ciencia de Datos e IA | Desarrollador Back-End & Automatizaciones
 Me encuentro cursando el 2.° año de la **Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial** en el **IFTS 12**. Me apasiona resolver problemas técnicos, modelar datos y optimizar flujos de trabajo mediante código y herramientas de automatización. 
 
-A través de mi espacio de proyectos autónomos, **Lógica Digital**, diseño e implemento soluciones de software orientadas a necesidades reales de comercios y pymes.
-
 ---
 
 ## 🛠️ Tecnologías y Herramientas
