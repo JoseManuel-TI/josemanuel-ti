@@ -1,59 +1,45 @@
-# ¡Hola! Soy Jose Manuel Castro Reina 👋
+# ¡Hola! Soy José Manuel Castro Reina 👋
 
-### Estudiante de Ciencia de Datos e IA | Desarrollador Back-End & Automatizaciones
-Me encuentro cursando el 2.° año de la **Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial** en el **IFTS 12**. Me apasiona resolver problemas técnicos, modelar datos y optimizar flujos de trabajo mediante código y herramientas de automatización. 
+### Soporte IT y soluciones digitales | Python, Flask, desarrollo web y ecommerce
 
----
+Estudio la **Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial** en el **IFTS 12**, con el primer año aprobado. Combino conocimientos técnicos con experiencia en atención a usuarios, operaciones digitales, CCTV y ventas por internet.
 
-## 🛠️ Tecnologías y Herramientas
-
-### Lenguajes y Bases de Datos
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### Ecosistema de Desarrollo y Automatización
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+Ayudo a hogares, profesionales y pequeños negocios con soporte técnico, páginas web sencillas, catálogos digitales, ecommerce y contacto por WhatsApp.
 
 ---
 
-## 🚀 Proyectos Destacados (Lógica Digital)
+## 🛠️ Conocimientos y herramientas
 
-* **Inmobiliario-pro:** Plataforma para gestión de catálogos y administración inmobiliaria.
-* **web-stetica:** Desarrollo web enfocado en la digitalización y gestión de turnos para centros de estética.
-* **Automatizaciones & IA:** Flujos de trabajo y agentes lógicos creados con n8n e integración de modelos de lenguaje para optimización de procesos comerciales.
-
----
-
-#### Prueba de Rendimiento y Visualización:
-Este gráfico fue generado automáticamente tras la configuración y validación de mis librerías de Ciencia de Datos (**Pandas, Seaborn, Matplotlib**):
-
-![Test de Entorno](test_entorno_ds.png)
+- **Soporte IT:** Windows, Linux Mint, instalación de software y controladores, impresoras, hardware, armado y actualización de PC.
+- **Redes básicas:** direcciones IP, routers, Wi-Fi y diagnóstico inicial de conectividad.
+- **CCTV:** instalación y mantenimiento de cámaras analógicas y digitales.
+- **Desarrollo:** Python, Flask, HTML, CSS, JavaScript y SQL.
+- **Herramientas:** Git, GitHub, Docker, VS Code, SQLite, MySQL y PostgreSQL.
 
 ---
 
-### 💻 Mi Entorno de Desarrollo
-Opero con un entorno híbrido sincronizado entre **Windows 11** (PC de escritorio) y **macOS** (MacBook), utilizando entornos virtuales (`venv`) y **VS Code** con sincronización en la nube.
+## 🚀 Proyectos destacados
+
+- **[Clickya — sistema de reventa](https://github.com/JoseManuel-TI/sistema-reventa):** tienda con catálogo, carrito, pedidos, control de stock, transferencias y gestión de operaciones. La experiencia comercial incluyó atención y ventas mediante Facebook y WhatsApp.
+- **[Bot Inmobiliario Pro](https://github.com/JoseManuel-TI/bot-inmobiliario-pro):** aplicación en Python y Flask para consultar y organizar oportunidades inmobiliarias y exportar resultados.
+- **[Web Estética](https://github.com/JoseManuel-TI/web-estetica):** landing responsive para presentar servicios y facilitar el contacto.
+- **[Las Mil Reparaciones](https://github.com/JoseManuel-TI/LasMilReparaciones):** sitio para servicios técnicos orientado a la captación de clientes.
 
 ---
 
-## 📊 Formación Académica
+## 📚 Formación
 
-* **Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial** * *IFTS 12* | En curso (2.° año) | 2025 - Presente
-* **Especializaciones Autónomas (Udemy / Autodidacta)**
-    * Enfoque en entornos Back-End, modelado SQL, React.js y lógicas de automatización.
+- **Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial**
+- **IFTS 12**
+- En curso desde 2025 — primer año aprobado
 
 ---
 
 ## ✉️ Contacto
 
-* **Email:** [jcmanueldj@gmail.com](mailto:jcmanueldj@gmail.com)
-* **Ubicación:** Buenos Aires, Argentina
+- **Email:** [jcmanueldj@gmail.com](mailto:jcmanueldj@gmail.com)
+- **Ubicación:** Buenos Aires, Argentina
+- **Portafolio:** [JoseManuel-TI.github.io/mi-portafolio](https://JoseManuel-TI.github.io/mi-portafolio/)
+- **LinkedIn:** [linkedin.com/in/josemanuell](https://www.linkedin.com/in/josemanuell/)
 
-Un gusto tenerte por acá. ¡Explorá mis repositorios para ver mis códigos de práctica de la carrera y proyectos personales!
+Gracias por visitar mi perfil. En los repositorios se pueden consultar proyectos personales y prácticas de estudio.
