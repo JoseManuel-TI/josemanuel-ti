@@ -1,29 +1,50 @@
 # ¡Hola! Soy José Manuel Castro Reina 👋
 
-### Soporte IT y soluciones digitales | Python, Flask, desarrollo web y ecommerce
+### Operaciones y Ventas Digitales · Atención al Cliente · E-commerce | Soporte de Aplicaciones
 
-Estudio la **Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial** en el **IFTS 12**, con el primer año aprobado. Combino conocimientos técnicos con experiencia en atención a usuarios, operaciones digitales, CCTV y ventas por internet.
+Desde 2026 desarrollo **ClickYa**, un emprendimiento propio de ventas digitales: atención de consultas por WhatsApp y Facebook Marketplace, gestión de catálogo, precios, stock, publicaciones y seguimiento de pedidos. Antes trabajé 12 años en seguridad física, videovigilancia y operación de un Centro de Control y Monitoreo (CECOM) con más de 90 cámaras. Desde 2022 conduzco en plataformas de movilidad en Argentina. Actualmente curso el segundo año de la **Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial** en el **IFTS 12**.
 
-Ayudo a hogares, profesionales y pequeños negocios con soporte técnico, páginas web sencillas, catálogos digitales, ecommerce y contacto por WhatsApp.
-
----
-
-## 🛠️ Conocimientos y herramientas
-
-- **Soporte IT:** Windows, Linux Mint, instalación de software y controladores, impresoras, hardware, armado y actualización de PC.
-- **Redes básicas:** direcciones IP, routers, Wi-Fi y diagnóstico inicial de conectividad.
-- **CCTV:** instalación y mantenimiento de cámaras analógicas y digitales.
-- **Desarrollo:** Python, Flask, HTML, CSS, JavaScript y SQL.
-- **Herramientas:** Git, GitHub, Docker, VS Code, SQLite, MySQL y PostgreSQL.
+Busco mi primera oportunidad formal en **operaciones, atención al cliente o ventas digitales/e-commerce**, con interés secundario en **soporte de aplicaciones y atención técnica** con capacitación y acompañamiento.
 
 ---
 
-## 🚀 Proyectos destacados
+## 🛒 Operaciones y ventas digitales
 
-- **[Clickya — sistema de reventa](https://github.com/JoseManuel-TI/sistema-reventa):** tienda con catálogo, carrito, pedidos, control de stock, transferencias y gestión de operaciones. La experiencia comercial incluyó atención y ventas mediante Facebook y WhatsApp.
-- **[Bot Inmobiliario Pro](https://github.com/JoseManuel-TI/bot-inmobiliario-pro):** aplicación en Python y Flask para consultar y organizar oportunidades inmobiliarias y exportar resultados.
-- **[Web Estética](https://github.com/JoseManuel-TI/web-estetica):** landing responsive para presentar servicios y facilitar el contacto.
-- **[Las Mil Reparaciones](https://github.com/JoseManuel-TI/LasMilReparaciones):** sitio para servicios técnicos orientado a la captación de clientes.
+- Atención de consultas y ventas por WhatsApp y Facebook Marketplace.
+- Gestión de catálogo, precios, stock y publicaciones.
+- Seguimiento de pedidos, pagos por transferencia y coordinación de entregas.
+- Operación de tienda online propia con panel de productos y pedidos.
+- Uso de Excel básico para control de stock y seguimiento.
+
+## 🛠️ Conocimientos
+
+**Soporte y sistemas**
+
+- Instalación y configuración de Windows y Linux Mint.
+- Manejo básico de terminal.
+- Diagnóstico inicial de conectividad y nociones de redes (IP, routers, Wi-Fi).
+- Revisión de equipos y resolución inicial de incidencias.
+
+**CCTV y monitoreo**
+
+- Instalación y mantenimiento de cámaras digitales y analógicas.
+- Monitoreo de incidentes, descarga de videos, elaboración de informes y escalamiento.
+
+**En formación**
+
+- Python y SQL (fundamentos), HTML y CSS, Git/GitHub.
+- Excel básico. Inglés básico (lectura técnica).
+
+---
+
+## 🚀 Proyectos de aprendizaje
+
+Estos proyectos los realicé para practicar, con apoyo de cursos e inteligencia artificial. No representan experiencia profesional:
+
+- **[RutaExpress](https://github.com/JoseManuel-TI/logistica_rutaexpress):** gestión de envíos con autenticación, carga por CSV y exportación de hojas de ruta (Python, FastAPI, SQLite).
+- **[TrendML](https://github.com/JoseManuel-TI/trendml):** MVP de análisis de mercado con modelo de regresión y dashboard (Python, FastAPI, scikit-learn, PostgreSQL).
+- **[Bot Inmobiliario Pro](https://github.com/JoseManuel-TI/bot-inmobiliario-pro):** búsqueda y filtrado de oportunidades inmobiliarias (Python, Flask, SQL).
+- **[Web Estética](https://github.com/JoseManuel-TI/web-estetica):** landing responsive para presentar servicios (HTML, CSS, Flask).
 
 ---
 
@@ -31,15 +52,15 @@ Ayudo a hogares, profesionales y pequeños negocios con soporte técnico, págin
 
 - **Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial**
 - **IFTS 12**
-- En curso desde 2025 — primer año aprobado
+- En curso desde 2025 — segundo año en curso
 
 ---
 
 ## ✉️ Contacto
 
 - **Email:** [jcmanueldj@gmail.com](mailto:jcmanueldj@gmail.com)
-- **Ubicación:** Buenos Aires, Argentina
+- **Ubicación:** Lanús Este, Buenos Aires, Argentina
 - **Portafolio:** [JoseManuel-TI.github.io/mi-portafolio](https://JoseManuel-TI.github.io/mi-portafolio/)
 - **LinkedIn:** [linkedin.com/in/josemanuell](https://www.linkedin.com/in/josemanuell/)
 
-Gracias por visitar mi perfil. En los repositorios se pueden consultar proyectos personales y prácticas de estudio.
+Disponibilidad inmediata para jornada completa, modalidad presencial, híbrida o remota y turnos rotativos. Licencia de conducir D1 vigente.
